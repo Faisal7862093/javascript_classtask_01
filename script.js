@@ -42,7 +42,16 @@
 // console.log(`The greater number of a above number is = ${greater_number}`)
 
 //................................................................................
+//Question 04
 
+// var Enter_name = prompt ("Enter any name")
+// var convert = "";
+// for(var i = Enter_name.length-1; i>=0; i--)
+// {
+//     convert = convert + Enter_name[i]
+// }
+// console.log(convert)
+//................................................................................
 // Question 05
 
 // var input = +prompt("Enter number ")
